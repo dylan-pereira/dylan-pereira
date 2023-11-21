@@ -12,6 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-pereira&show_icons=true&locale=en&layout=compact" alt="dylan-pereira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dylan-pereira&show_icons=true&locale=en" alt="dylan-pereira" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dylan-pereira&" alt="dylan-pereira" /></p>
