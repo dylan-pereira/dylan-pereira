@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A software engineer from France 🇫🇷</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dylan-pereira&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-pereira" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dylan-pereira&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-pereira profile" /> </p>
 
 <h3 align="left">Contact me: <a href="mailto:contact@dylanpereira.fr">contact@dylanpereira.fr</a></h3>
 <p align="left">
