@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">A future software engineer from France 🇫🇷</h3>
+<h3 align="center">Software engineer from France 🇫🇷</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dylan-pereira&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-pereira profile" /> </p>
 
